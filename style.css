@@ -1,0 +1,26 @@
+.heading{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px red;
+}
+.note{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.footer{
+    position: fixed;
+    color:darkslategrey;
+    background-color: yellowgreen;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height:3;
+
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px blue ;
+}
